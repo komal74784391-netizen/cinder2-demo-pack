@@ -1,0 +1,32 @@
+{
+  "pack": "cinder2-demo-sample-pack",
+  "release": "2026.11",
+  "description": "Sample shards shipped with the Cinder-2 public demo build.",
+  "shards": [
+    {
+      "file": "data/code-corpus-python-1k.jsonl",
+      "records": 60,
+      "bytes": 11123
+    },
+    {
+      "file": "data/dialogue-vetted-8k.jsonl",
+      "records": 60,
+      "bytes": 37805
+    },
+    {
+      "file": "data/grade-school-math-1k.jsonl",
+      "records": 50,
+      "bytes": 18463
+    },
+    {
+      "file": "data/science-mcq-600.jsonl",
+      "records": 40,
+      "bytes": 9276
+    },
+    {
+      "file": "data/study-text-excerpts-1k.jsonl",
+      "records": 40,
+      "bytes": 29197
+    }
+  ]
+}

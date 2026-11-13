@@ -1,0 +1,6 @@
+review_date,shard,track,license_status,privacy_status,signoff_status,note
+2026-07-08,data/code-corpus-python-1k.jsonl,code-v2,verified 2026-07-08,passed 2026-07-15,passed 2026-08-04,
+2026-07-22,data/grade-school-math-1k.jsonl,math-v1,verified 2026-07-22,passed 2026-07-28,passed 2026-08-11,
+2026-07-30,data/science-mcq-600.jsonl,science-v1,verified 2026-07-30,passed 2026-08-06,passed 2026-08-19,2026-09-12: licence query from legal closed - attribution string updated; no further action
+2026-08-02,data/study-text-excerpts-1k.jsonl,textbook-v1,verified 2026-08-02,passed 2026-08-09,passed 2026-08-25,
+2026-11-12,data/dialogue-vetted-8k.jsonl,dialogue-v3,ATTRIBUTION UNVERIFIED - working assumption HuggingFaceH4/ultrachat_200k,pending,pending,Swap-in arrived 2026-11-12; confirm upstream before release
